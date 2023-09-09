@@ -3,10 +3,9 @@ entries:
   jetic-bridge:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-09-08T19:04:43.2493675+02:00"
-    description: A Helm chart for connecting your Kubernetes cluster to the Jetic
-      Platform
-    digest: f374f05af4139fbfd2de1b1e7b0d446563b2dbb3a8a5219ed9157165a90104ea
+    created: "2023-09-09T14:14:53.2926205+02:00"
+    description: A Helm chart for connecting your cluster to the Jetic Platform
+    digest: 6e9d3047d9e5e248941eab35ea2245b0d024110ff5f0aa3a76b58d2acb08425f
     icon: https://app.jetic.io/favicon.ico
     name: jetic-bridge
     type: application
@@ -15,7 +14,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-09-08T19:04:43.2482099+02:00"
+    created: "2023-09-09T14:14:53.2926205+02:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 825229d199d48cd4b4102b0de0b51c3d98d076887da589235968e0cd6edc44d5
@@ -27,7 +26,7 @@ entries:
     version: 1.11.0
   - apiVersion: v2
     appVersion: 0.26.0
-    created: "2023-09-08T19:04:43.2476314+02:00"
+    created: "2023-09-09T14:14:53.2920796+02:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 6396fddfbfdbb0d12bf261bda833f046c15c901f61889af5120cbc9f9e4aac9f
@@ -37,4 +36,4 @@ entries:
     urls:
     - https://jetic4main.github.io/jetic-bridge/charts/jetic-bridge-1.10.0.tgz
     version: 1.10.0
-generated: "2023-09-08T19:04:43.2464989+02:00"
+generated: "2023-09-09T14:14:53.291533+02:00"

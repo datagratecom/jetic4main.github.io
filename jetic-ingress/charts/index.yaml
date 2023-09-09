@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  jetic-ingress:
+  - apiVersion: v2
+    appVersion: "1.4"
+    created: "2023-09-09T14:15:12.5770251+02:00"
+    description: A Helm chart for configuring your jetic-ingress rules
+    digest: 25f505dbe27f9874c00105a5fbfa70fbbaae48dc178ac333769e39b3dc11e16c
+    icon: https://app.jetic.io/favicon.ico
+    name: jetic-ingress
+    type: application
+    urls:
+    - https://jetic4main.github.io/jetic-ingress/charts/jetic-ingress-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-09-09T14:15:12.576492+02:00"
