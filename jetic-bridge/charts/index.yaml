@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   jetic-bridge:
   - apiVersion: v2
+    appVersion: 2.0.3
+    created: "2023-10-04T16:22:30.9809992+03:00"
+    description: A Helm chart for connecting your cluster to the Jetic Platform
+    digest: d870c535cd265115d4dc841cc1ca9f0f2925a69c7da3c68a89c96575e85d0710
+    icon: https://app.jetic.io/favicon.ico
+    name: jetic-bridge
+    type: application
+    urls:
+    - https://jetic4main.github.io/jetic-bridge/charts/jetic-bridge-2.0.3.tgz
+    version: 2.0.3
+  - apiVersion: v2
     appVersion: 2.0.1
-    created: "2023-10-02T16:48:55.1379149+03:00"
+    created: "2023-10-04T16:22:30.9809992+03:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 7e939a87235ab3fb1a7a7706e9a27c9c25e9bc9f379968b2232d15ee91810b8c
     icon: https://app.jetic.io/favicon.ico
@@ -14,7 +25,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-10-02T16:48:55.1379149+03:00"
+    created: "2023-10-04T16:22:30.9800096+03:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 6e9d3047d9e5e248941eab35ea2245b0d024110ff5f0aa3a76b58d2acb08425f
     icon: https://app.jetic.io/favicon.ico
@@ -25,7 +36,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-02T16:48:55.1373992+03:00"
+    created: "2023-10-04T16:22:30.9800096+03:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 825229d199d48cd4b4102b0de0b51c3d98d076887da589235968e0cd6edc44d5
@@ -37,7 +48,7 @@ entries:
     version: 1.11.0
   - apiVersion: v2
     appVersion: 0.26.0
-    created: "2023-10-02T16:48:55.1368825+03:00"
+    created: "2023-10-04T16:22:30.9790126+03:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 6396fddfbfdbb0d12bf261bda833f046c15c901f61889af5120cbc9f9e4aac9f
@@ -47,4 +58,4 @@ entries:
     urls:
     - https://jetic4main.github.io/jetic-bridge/charts/jetic-bridge-1.10.0.tgz
     version: 1.10.0
-generated: "2023-10-02T16:48:55.1342769+03:00"
+generated: "2023-10-04T16:22:30.9780097+03:00"
