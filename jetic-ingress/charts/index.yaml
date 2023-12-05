@@ -3,24 +3,24 @@ entries:
   jetic-ingress:
   - apiVersion: v2
     appVersion: "1.4"
-    created: "2023-10-18T11:37:04.5894256+03:00"
+    created: "2023-12-05T15:04:16.651321-05:00"
     description: A Helm chart for configuring your jetic-ingress rules
     digest: e06368da4917cb331e7f09b155de8f678d30f92a7e1fb7eb6cce1b0f71846295
     icon: https://app.jetic.io/favicon.ico
     name: jetic-ingress
     type: application
     urls:
-    - https://jetic4main.github.io/jetic-ingress/charts/jetic-ingress-1.1.0.tgz
+    - https://datagratecom.github.io/jetic4main.github.io/jetic-ingress/charts/jetic-ingress-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: "1.4"
-    created: "2023-10-18T11:37:04.5889179+03:00"
+    created: "2023-12-05T15:04:16.650644-05:00"
     description: A Helm chart for configuring your jetic-ingress rules
     digest: 25f505dbe27f9874c00105a5fbfa70fbbaae48dc178ac333769e39b3dc11e16c
     icon: https://app.jetic.io/favicon.ico
     name: jetic-ingress
     type: application
     urls:
-    - https://jetic4main.github.io/jetic-ingress/charts/jetic-ingress-1.0.0.tgz
+    - https://datagratecom.github.io/jetic4main.github.io/jetic-ingress/charts/jetic-ingress-1.0.0.tgz
     version: 1.0.0
-generated: "2023-10-18T11:37:04.5884099+03:00"
+generated: "2023-12-05T15:04:16.64974-05:00"
