@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   jetic-bridge:
   - apiVersion: v2
+    appVersion: 2.3.2
+    created: "2024-04-02T19:40:27.845902-05:00"
+    description: A Helm chart for connecting your cluster to the Jetic Platform
+    digest: f0064e71614b22cab7f2051b32d8a5619557e66c497f7589ed87ad9f0b56b114
+    icon: https://app.jetic.io/favicon.ico
+    name: jetic-bridge
+    type: application
+    urls:
+    - https://helm.jetic.io/jetic-bridge/charts/jetic-bridge-2.3.2.tgz
+    version: 2.3.2
+  - apiVersion: v2
     appVersion: 2.3.1
-    created: "2024-03-13T14:01:37.744708-05:00"
+    created: "2024-04-02T19:40:27.845643-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: aa23d1ff2efbc5b8b11f20a451402869923e2c5b2a7ee4080583dd4c1fd6500b
     icon: https://app.jetic.io/favicon.ico
@@ -14,7 +25,7 @@ entries:
     version: 2.3.1
   - apiVersion: v2
     appVersion: 2.3.0
-    created: "2024-03-13T14:01:37.743165-05:00"
+    created: "2024-04-02T19:40:27.845474-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 0b3f97e72bafc4353f97089c465e61f3998f9e1f45bc09470eb79699788d885f
     icon: https://app.jetic.io/favicon.ico
@@ -25,7 +36,7 @@ entries:
     version: 2.3.0
   - apiVersion: v2
     appVersion: 2.2.4
-    created: "2024-03-13T14:01:37.74218-05:00"
+    created: "2024-04-02T19:40:27.845296-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: d5c9a789ae88a7825626d0bd184f23614736ee2f09b5add1b6e7ed6cc0c38e49
     icon: https://app.jetic.io/favicon.ico
@@ -36,7 +47,7 @@ entries:
     version: 2.2.4
   - apiVersion: v2
     appVersion: 2.0.10
-    created: "2024-03-13T14:01:37.740225-05:00"
+    created: "2024-04-02T19:40:27.844796-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 6e92ac2e3de467ea0542d39a0b9411dd76694f18df2055a2ff989c92864799c2
     icon: https://app.jetic.io/favicon.ico
@@ -47,7 +58,7 @@ entries:
     version: 2.0.10
   - apiVersion: v2
     appVersion: 2.0.6
-    created: "2024-03-13T14:01:37.741329-05:00"
+    created: "2024-04-02T19:40:27.845113-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 9d462b053c7b83027cf161e0106c2dcf354a0f8197a2b90cc89116998f1cfeee
     icon: https://app.jetic.io/favicon.ico
@@ -58,7 +69,7 @@ entries:
     version: 2.0.6
   - apiVersion: v2
     appVersion: 2.0.3
-    created: "2024-03-13T14:01:37.740766-05:00"
+    created: "2024-04-02T19:40:27.844955-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: d870c535cd265115d4dc841cc1ca9f0f2925a69c7da3c68a89c96575e85d0710
     icon: https://app.jetic.io/favicon.ico
@@ -69,7 +80,7 @@ entries:
     version: 2.0.3
   - apiVersion: v2
     appVersion: 2.0.1
-    created: "2024-03-13T14:01:37.738308-05:00"
+    created: "2024-04-02T19:40:27.844622-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 7e939a87235ab3fb1a7a7706e9a27c9c25e9bc9f379968b2232d15ee91810b8c
     icon: https://app.jetic.io/favicon.ico
@@ -80,7 +91,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-03-13T14:01:37.737632-05:00"
+    created: "2024-04-02T19:40:27.844383-05:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 6e9d3047d9e5e248941eab35ea2245b0d024110ff5f0aa3a76b58d2acb08425f
     icon: https://app.jetic.io/favicon.ico
@@ -91,7 +102,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-03-13T14:01:37.736929-05:00"
+    created: "2024-04-02T19:40:27.843813-05:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 825229d199d48cd4b4102b0de0b51c3d98d076887da589235968e0cd6edc44d5
@@ -103,7 +114,7 @@ entries:
     version: 1.11.0
   - apiVersion: v2
     appVersion: 0.26.0
-    created: "2024-03-13T14:01:37.736118-05:00"
+    created: "2024-04-02T19:40:27.843605-05:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: 6396fddfbfdbb0d12bf261bda833f046c15c901f61889af5120cbc9f9e4aac9f
@@ -113,4 +124,4 @@ entries:
     urls:
     - https://helm.jetic.io/jetic-bridge/charts/jetic-bridge-1.10.0.tgz
     version: 1.10.0
-generated: "2024-03-13T14:01:37.735124-05:00"
+generated: "2024-04-02T19:40:27.84314-05:00"
