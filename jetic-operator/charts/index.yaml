@@ -3,7 +3,18 @@ entries:
   jetic-operator:
   - apiVersion: v2
     appVersion: 1.10.4
-    created: "2024-03-13T14:02:30.85079-05:00"
+    created: "2024-07-11T23:37:36.714327+02:00"
+    description: A Helm chart for creating camel-k operator for Jetic Platform
+    digest: 3cac2ab1d3f0cc3ec0928eab609ba93954ffb6c9ba44a362f479bc5230ab8097
+    icon: https://github.com/apache/camel/raw/main/docs/img/logo64-d.png
+    name: jetic-operator
+    type: application
+    urls:
+    - https://helm.jetic.io/jetic-operator/charts/jetic-operator-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
+    appVersion: 1.10.4
+    created: "2024-07-11T23:37:36.710215+02:00"
     description: A Helm chart for creating camel-k operator for Jetic Platform
     digest: 948630146ab35be4cd6fc43a5102c9aaeaf98f634ea633639429275c0d74fe69
     icon: https://github.com/apache/camel/raw/main/docs/img/logo64-d.png
@@ -14,7 +25,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 1.10.4
-    created: "2024-03-13T14:02:30.844951-05:00"
+    created: "2024-07-11T23:37:36.706945+02:00"
     description: A Helm chart for creating camel-k operator for Jetic Platform
     digest: 7b3ff39a67c02b0c18c461f606c441774c8f9ff18c70da9e483c9263dc43d40f
     icon: https://github.com/apache/camel/raw/main/docs/img/logo64-d.png
@@ -25,7 +36,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.10.4
-    created: "2024-03-13T14:02:30.836032-05:00"
+    created: "2024-07-11T23:37:36.703362+02:00"
     description: A Helm chart for creating camel-k operator for Jetic Platform
     digest: 7b624242179d32d3e73ce48b80eb8198c7f122f209e28d066fabed86552187ca
     icon: https://github.com/apache/camel/raw/main/docs/img/logo64-d.png
@@ -34,4 +45,4 @@ entries:
     urls:
     - https://helm.jetic.io/jetic-operator/charts/jetic-operator-1.10.4.tgz
     version: 1.10.4
-generated: "2024-03-13T14:02:30.828986-05:00"
+generated: "2024-07-11T23:37:36.699234+02:00"
