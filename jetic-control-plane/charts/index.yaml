@@ -10,6 +10,6 @@ entries:
     name: jetic-control-plane
     type: application
     urls:
-    - https://helm.jetic.io/jetic-control-plane/charts/chart/jetic-control-plane-2.5.3.tgz
+    - https://helm.jetic.io/jetic-control-plane/charts/jetic-control-plane-2.5.3.tgz
     version: 2.5.3
 generated: "2025-02-14T23:07:29.174062+01:00"
