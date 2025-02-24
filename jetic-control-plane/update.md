@@ -1,5 +1,3 @@
----
-
 ### Update `jetic-bridge` and `jetic-operator` to `jetic-control-plane`
 
 1. Ensure all changes are committed and pushed.  
@@ -78,5 +76,3 @@
     kubectl get integrations -n staging -w
     ```
     Once an integration is running, go back to step **14** and continue with the next integration.
-
----
