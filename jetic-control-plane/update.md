@@ -30,7 +30,7 @@
 
 1.  Download the required CRDs:  
     ```sh
-    wget https://github.com/apache/camel-k/blob/ef343b6fc8ce80e8b6cae950dce5b1782221a735/helm/camel-k/crds/camel-k-crds.yaml -O crds.yaml
+    wget https://helm.jetic.io/jetic-control-plane/crds.yaml -O crds.yaml
     ```
 1.  Apply the CRDs:  
     ```sh
