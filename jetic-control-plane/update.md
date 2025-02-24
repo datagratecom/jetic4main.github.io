@@ -32,6 +32,9 @@
     ```sh
     wget https://helm.jetic.io/jetic-control-plane/crds.yaml -O crds.yaml
     ```
+    ```sh
+    curl https://helm.jetic.io/jetic-control-plane/crds.yaml > crds.yaml
+    ```
 1.  Apply the CRDs:  
     ```sh
     kubectl replace -f crds.yaml
