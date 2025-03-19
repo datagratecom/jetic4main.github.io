@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   jetic-control-plane:
   - apiVersion: v2
+    appVersion: 2.5.7
+    created: "2025-03-19T14:51:51.900581+01:00"
+    description: A Helm chart for connecting your cluster to the Jetic Platform
+    digest: dce080b0106ad3aef02bae5f9356612edf8d79ecc16d2fd7bad17c465a7b6f57
+    icon: https://app.jetic.io/favicon.ico
+    name: jetic-control-plane
+    type: application
+    urls:
+    - https://helm.jetic.io/jetic-control-plane/charts/jetic-control-plane-2.5.7.tgz
+    version: 2.5.7
+  - apiVersion: v2
     appVersion: 2.5.6
-    created: "2025-03-10T14:27:27.667434+01:00"
+    created: "2025-03-19T14:51:51.895228+01:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 87568da00a54ca01d0016f0f0445ad51f42accc08758223434fea45cdba217d6
     icon: https://app.jetic.io/favicon.ico
@@ -14,7 +25,7 @@ entries:
     version: 2.5.6
   - apiVersion: v2
     appVersion: 2.5.5
-    created: "2025-03-10T14:27:27.661927+01:00"
+    created: "2025-03-19T14:51:51.889672+01:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 533ed1e18e8ed3b40bc62c0065489f9a145c8ddbb7a2e732a7d30a76fc4e5fe8
     icon: https://app.jetic.io/favicon.ico
@@ -25,7 +36,7 @@ entries:
     version: 2.5.5
   - apiVersion: v2
     appVersion: 2.5.4
-    created: "2025-03-10T14:27:27.654658+01:00"
+    created: "2025-03-19T14:51:51.883649+01:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: 29ed91bd2e38895e2eb0f2eb840e54af9ffbb2739a13b9f82e8d3f2977ad5227
     icon: https://app.jetic.io/favicon.ico
@@ -36,7 +47,7 @@ entries:
     version: 2.5.4
   - apiVersion: v2
     appVersion: 2.5.3
-    created: "2025-03-10T14:27:27.646988+01:00"
+    created: "2025-03-19T14:51:51.877382+01:00"
     description: A Helm chart for connecting your cluster to the Jetic Platform
     digest: c559cbaac39a1c4a773eb2becc9848f3915755bc2781c79b87244ac72f8663af
     icon: https://app.jetic.io/favicon.ico
@@ -45,4 +56,4 @@ entries:
     urls:
     - https://helm.jetic.io/jetic-control-plane/charts/jetic-control-plane-2.5.3.tgz
     version: 2.5.3
-generated: "2025-03-10T14:27:27.639596+01:00"
+generated: "2025-03-19T14:51:51.870652+01:00"
